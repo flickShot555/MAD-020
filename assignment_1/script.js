@@ -81,7 +81,7 @@ const applyDiscount = (discountCode) => {
 addItemToCart(1, "Samsung S24 ultra", 1, 2400);
 addItemToCart(2, "Iphone 16 pro", 2, 2500);
 addItemToCart(3, "pixel 9 pro XL", 1, 2600);
-addItemToCart(3, "Huawei mate 20", 0, 2600);
+addItemToCart(4, "Huawei mate 20", 0, 2600);
 
 // Updating the quantity of an item (e.g., samsung quantity updated to 3)
 updateItemQuantity(2, 3);
